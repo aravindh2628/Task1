@@ -1,7 +1,6 @@
 # Data Analysis Project - Aravindh.ipynb
 
 This project contains a Jupyter Notebook for performing data analysis using Python. It includes data preprocessing, visualization, and statistical analysis techniques.
-
 ## 📁 Project Structure
 
 - `aravindh.ipynb`: Main notebook file containing the complete analysis workflow.
